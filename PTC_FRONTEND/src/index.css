@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+   /* Colors - use --color-* prefix */
+    --color-light-blue: #e0f7fa;
+    --color-gradient-blue: #b2ebf2;
+    --color-gold-yellow: #ffd600;
+    --color-deep-green: #2e7d32;
+    --color-earthy-red: #b71c1c;
+
+    /* font families */
+    --font-family-display: Poppins, ui-sans-serif, system-ui, sans-serif;
+    --font-family-body: Inter, ui-sans-serif, system-ui, sans-serif;
+    --font-family-mono: "Fira Code", ui-monospace, monospace;
+}
